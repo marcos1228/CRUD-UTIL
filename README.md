@@ -36,6 +36,9 @@ Delete --> Excluir um dado na base de dado.
 
 ![BotonEditar](https://user-images.githubusercontent.com/48805256/56298903-5fb7ed00-6109-11e9-975e-1b67397b63f6.PNG) Esse editar o cadastro de uma pessoa
 
+![BotonExcluir](https://user-images.githubusercontent.com/48805256/56299016-97269980-6109-11e9-84ab-26e29b880a53.PNG) Esse excluir uma pessoa, basta clica na linha logo em seguida no boton excluir.
+
+
 
 
 
