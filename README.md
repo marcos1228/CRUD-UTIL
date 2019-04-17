@@ -41,6 +41,10 @@ Delete --> Excluir um dado na base de dado.
 ![BotonverContatos](https://user-images.githubusercontent.com/48805256/56299145-d7861780-6109-11e9-9735-bd08b70ddc74.PNG) Basta clica na linha para selecionar a pessoa e depois no botonVercontatos para ver todos os contatos cadastrado a essa mesma.
 
 ## Tela de Cadastro de Pessoa
+![BotonInserirPessoa](https://user-images.githubusercontent.com/48805256/56299686-e91bef00-610a-11e9-84f2-b5b2a67dbb3a.PNG)
+
+## Tela de Editar Cadastro de Pessoa
+
 
 
 
