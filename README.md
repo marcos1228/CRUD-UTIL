@@ -49,7 +49,14 @@ Delete --> Excluir um dado na base de dado.
 
 ## Tela ver Contatos
 
+![TelaverContatos](https://user-images.githubusercontent.com/48805256/56300369-3c427180-610c-11e9-978a-403320b9eaae.PNG)
 
+## MONTAGEM DO PROJETO
+ O projeto foi montado no *padrão DAO* é um padrão de projeto aonde um objeto;
+ provê uma interface que abstrai o acesso a dados;
+ Lê grava a partir da origem de dados(banco de dados, arquivo, memória, etc);
+ E encapsula o acesso aos dados, de forma que as demais classes não precisam saber disso.
+ 
 
 
 
