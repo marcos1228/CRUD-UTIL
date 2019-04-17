@@ -70,8 +70,48 @@ nome do banco de dados é agenda, nele foram craido duas Entidades; pessoa e con
 Na Entidade pessoa, tem-se os atributos; id, nome, endereco, bairro, cpf e sexo e na Entidade contato tem-se os atributos; id, tipo, registro e pessoaid.
 O relacionamento das entidades é de 1:n, onde uma pessoa pode te vários contatos e um contato só pode te uma pessoa.
 
+![RelacionamentoDatabase](https://user-images.githubusercontent.com/48805256/56301017-5a5ca180-610d-11e9-8fa5-f490d812c66d.PNG)
+*RelacionamentoDatabase*
 
- 
+# Scripts de criação das Entidades
+
+Scripts create table pessoa:
+
+CREATE TABLE `pessoa` (
+
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  
+  `nome` varchar(45) DEFAULT NULL,
+  
+  `endereco` varchar(45) DEFAULT NULL,
+  
+  `bairro` varchar(45) DEFAULT NULL,
+  
+  `cpf` varchar(14) DEFAULT NULL,
+  
+  `sexo` varchar(10) DEFAULT NULL,
+  
+  PRIMARY KEY (`id`)
+  
+) ENGINE=InnoDB AUTO_INCREMENT=44 DEFAULT CHARSET=utf8;
+
+Scripts create table contato:
+CREATE TABLE `contato` (
+
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  
+  `tipo` varchar(15) DEFAULT NULL,
+  
+  `registro` varchar(30) DEFAULT NULL,
+  
+  `pessoaid` int(11) DEFAULT NULL,
+  
+  PRIMARY KEY (`id`)
+  
+) ENGINE=InnoDB AUTO_INCREMENT=116 DEFAULT CHARSET=utf8;
+
+
+
  
  
 
