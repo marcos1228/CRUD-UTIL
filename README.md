@@ -60,6 +60,10 @@ Delete --> Excluir um dado na base de dado.
  
  E encapsula o acesso aos dados, de forma que as demais classes não precisam saber disso.
  
+ ![ImagemEstruturaProjeto](https://user-images.githubusercontent.com/48805256/56300572-93e0dd00-610c-11e9-828e-a889fa33586c.PNG)
+ 
+ %Imagem do Projeto%
+ 
  
  
 
