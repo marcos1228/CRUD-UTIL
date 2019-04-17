@@ -1,5 +1,5 @@
 ### CRUD-UTIL
-O CRUD foi criado no intuito de pratica a programação orientada a objeto, relacionamento de banco de dados e versionamento de versão utilizando o Git/Hub.
+O CRUD foi criado no intuito de prática a programação orientada a objeto, relacionamento de banco de dados e versionamento de versão utilizando o Git/Hub.
 ![TelaInicio](https://user-images.githubusercontent.com/48805256/56297862-8543f700-6107-11e9-92d0-8223c65dd7db.PNG)
 
 Imagem inicial do crud
