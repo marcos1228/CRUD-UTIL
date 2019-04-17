@@ -66,7 +66,7 @@ Delete --> Excluir um dado na base de dado.
  
  ## BANCO DE DADOS
 Banco utilizado foi o MaySQL, criado através do MySQLWorbeanch6.3 
-nome do banco de dados é agenda, nele foram craido duas Entidades; pessoa e contato.
+nome do banco de dados é agenda, nele foram críado duas Entidades; pessoa e contato.
 Na Entidade pessoa, tem-se os atributos; id, nome, endereco, bairro, cpf e sexo e na Entidade contato tem-se os atributos; id, tipo, registro e pessoaid.
 O relacionamento das entidades é de 1:n, onde uma pessoa pode te vários contatos e um contato só pode te uma pessoa.
 
