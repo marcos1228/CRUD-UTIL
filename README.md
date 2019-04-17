@@ -21,6 +21,7 @@ MySQL Worben6.3--> modelagem e ralacionamento de banco de dados
 
 ## Função do CRUD:
 A finalidade do projeto CRUD é; Criar, Ler, Atualizar, Deletar dados através de uma aplicação no banco de dados.
+
 Create --> Cria um pessoa ou contato na base de dado.
 
 Readme --> Ler um dado no banco de dados.
@@ -28,3 +29,5 @@ Readme --> Ler um dado no banco de dados.
 Update --> Atualiza um dado no banco de dados.
 
 Delete --> Excluir um dado na base de dado.
+
+## Descrição dos botons:
