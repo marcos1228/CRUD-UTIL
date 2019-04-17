@@ -34,6 +34,10 @@ Delete --> Excluir um dado na base de dado.
 
 ![Boton inserir](https://user-images.githubusercontent.com/48805256/56298646-e9b38600-6108-11e9-8722-389a13c5dd34.PNG) Esse tem a função de cadastra uma nova pessoa
 
+![BotonEditar](https://user-images.githubusercontent.com/48805256/56298903-5fb7ed00-6109-11e9-975e-1b67397b63f6.PNG) Esse editar o cadastro de uma pessoa
+
+
+
 
 
 
