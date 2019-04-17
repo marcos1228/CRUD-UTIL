@@ -197,7 +197,7 @@ public class InserirContato<ListarContato> extends JFrame {
 				int linhaSelecionada = -1;
 	            linhaSelecionada = tabelaContatos.getSelectedRow();
 	            if (linhaSelecionada >= 0) {
-	                Long idContato = (Long) tabelaContatos.getValueAt(linhaSelecionada, 2);
+	                Long idContato = (Long) tabelaContatos.getValueAt(linhaSelecionada, 0);
 	                dao.remover(idContato);
 	                DefaultTableModel modeloPadrao = (DefaultTableModel) tabelaContatos.getModel();
 	                modeloPadrao.removeRow(linhaSelecionada);
