@@ -15,7 +15,7 @@ Git --> Sistema de versão distribuida
 
 GitHub--> serviço para hospedagem de projeto
 
-UwAmp--> conjuntos de progromas 
+MySQL --> Sistema de gerenciamento de Banco de dados.
 
 MySQL Worben6.3--> modelagem e ralacionamento de banco de dados
 
