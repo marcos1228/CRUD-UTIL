@@ -111,7 +111,7 @@ CREATE TABLE `contato` (
 ) ENGINE=InnoDB AUTO_INCREMENT=116 DEFAULT CHARSET=utf8;
 
 
-# Conclussão
+# Conclusão
 O projeto CRUD foi surgui da necessidade de  estuda e aprimora o conhecimento em java POO e relacionamento de Banco de dados, como a criação dele pode ver na prática a construção de uma aplicação do zero.
 
 
